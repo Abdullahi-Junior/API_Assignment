@@ -20,25 +20,6 @@ body {
 .app-main {
   padding: 21px;
 }
-
-/* Tablet Layout (adjust breakpoint as needed) */
-@media (max-width: 768px) { 
-  .task-manager-container {
-    /* Adjust layout for tablets */
-  }
-}
-
-/* Mobile Layout (adjust breakpoint as needed) */
-@media (max-width: 480px) {
-  .task-manager-container {
-    /* Adjust layout for mobile */
-  }
-
-  .header {
-    flex-direction: column; /* Stack header elements vertically */
-  }
-}
-
 .footer {
   background-color: #007bff;
   color: white;
